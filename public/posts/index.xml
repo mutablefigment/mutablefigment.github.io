@@ -2,18 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on mutablefigment&#39;s webspace</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://mutablefigment.xyz/posts/</link>
     <description>Recent content in Posts on mutablefigment&#39;s webspace</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 16 May 2025 16:02:43 +0200</lastBuildDate>
-      <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Building a simple home robot</title>
-      <link>http://localhost:1313/posts/home-robot/</link>
-      <pubDate>Fri, 16 May 2025 16:02:43 +0200</pubDate>
-      <guid>http://localhost:1313/posts/home-robot/</guid>
-      <description>&lt;h1 id=&#34;building-a-small-robot-with-tracks-for-fun-and-no-profit-part-0&#34;&gt;Building a small robot with tracks for fun and no profit (part 0)&lt;/h1&gt;&#xA;&lt;p&gt;Sometime ago I decided I wanna build something related to electronics and programming.&#xA;After talking with some of my friends, I have decided that I want to build a small robot&#xA;that can drive around my apartment, can see using a camera and somesort of vision processing&#xA;as well as speak.&#xA;For the language intensive parts I decided to use an &lt;code&gt;Ollama&lt;/code&gt; instance running on my local&#xA;&lt;code&gt;NixOS cluster&lt;/code&gt;.&lt;/p&gt;&#xA;</description>
-    </item>
+      <atom:link href="https://mutablefigment.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

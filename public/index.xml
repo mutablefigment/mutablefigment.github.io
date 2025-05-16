@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mutable&#39;s webspace on mutablefigment&#39;s webspace</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mutablefigment.xyz/</link>
     <description>Recent content in Mutable&#39;s webspace on mutablefigment&#39;s webspace</description>
     <generator>Hugo</generator>
     <language>en-GB</language>
     <lastBuildDate>Fri, 16 May 2025 16:02:43 +0200</lastBuildDate>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Building a simple home robot</title>
-      <link>http://localhost:1313/posts/home-robot/</link>
-      <pubDate>Fri, 16 May 2025 16:02:43 +0200</pubDate>
-      <guid>http://localhost:1313/posts/home-robot/</guid>
-      <description>&lt;h1 id=&#34;building-a-small-robot-with-tracks-for-fun-and-no-profit-part-0&#34;&gt;Building a small robot with tracks for fun and no profit (part 0)&lt;/h1&gt;&#xA;&lt;p&gt;Sometime ago I decided I wanna build something related to electronics and programming.&#xA;After talking with some of my friends, I have decided that I want to build a small robot&#xA;that can drive around my apartment, can see using a camera and somesort of vision processing&#xA;as well as speak.&#xA;For the language intensive parts I decided to use an &lt;code&gt;Ollama&lt;/code&gt; instance running on my local&#xA;&lt;code&gt;NixOS cluster&lt;/code&gt;.&lt;/p&gt;&#xA;</description>
-    </item>
+      <atom:link href="https://mutablefigment.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://mutablefigment.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://mutablefigment.xyz/about/</guid>
       <description>&lt;p&gt;I am mutable figment,&lt;/p&gt;&#xA;&lt;p&gt;recently I switched my job from being a software developer to being a gardener.&lt;/p&gt;&#xA;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://mutablefigment.xyz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://mutablefigment.xyz/contact/</guid>
       <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;&#xA;&lt;p class=&#34;success message hidden&#34; data-contact-submitted&gt;Your message was sent.&lt;/p&gt;&#xA;&lt;p class=&#34;error message hidden&#34; data-contact-error&gt;There was an error sending the message.&lt;/p&gt;&#xA;&#xA;&lt;form class=&#34;contact-form hidden&#34; data-protect=&#34;/php/contact.php&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34;&gt;&#xA;  &lt;label for=&#34;edit-name&#34;&gt;Name&lt;/label&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-name&#34; name=&#34;name&#34; placeholder=&#34;Your name&#34; required autofocus&gt;&#xA;  &lt;label for=&#34;edit-mail&#34;&gt;E-mail address&lt;/label&gt;&#xA;  &lt;input type=&#34;email&#34; id=&#34;edit-mail&#34; name=&#34;email&#34; placeholder=&#34;Your e-mail address&#34; required&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-url&#34; class=&#34;hidden&#34; name=&#34;url&#34; placeholder=&#34;Skip if you are a human&#34;&gt;&#xA;  &lt;label for=&#34;edit-subject&#34;&gt;Subject&lt;/label&gt;&#xA;  &lt;input type=&#34;text&#34; id=&#34;edit-subject&#34; name=&#34;subject&#34; placeholder=&#34;A short subject&#34; required&gt;&#xA;  &lt;label for=&#34;edit-message&#34;&gt;Message&lt;/label&gt;&#xA;  &lt;textarea id=&#34;edit-message&#34; name=&#34;message&#34; rows=&#34;5&#34; placeholder=&#34;The messages go here…&#34; required&gt;&lt;/textarea&gt;&#xA;  &lt;button type=&#34;submit&#34; name=&#34;submit&#34; disabled&gt;Send message&lt;/button&gt;&#xA;&lt;/form&gt;&#xA;&#xA;</description>
     </item>
     <item>
       <title>Search</title>
-      <link>http://localhost:1313/search/</link>
+      <link>https://mutablefigment.xyz/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/search/</guid>
+      <guid>https://mutablefigment.xyz/search/</guid>
       <description>&lt;p class=&#34;error message js-hidden&#34;&gt;You must have Javascript enabled to use this function.&lt;/p&gt;&#xA;&lt;p class=&#34;info message hidden&#34; data-search-loading&gt;Loading search index…&lt;/p&gt;&#xA;&#xA;&lt;div data-search-input class=&#34;hidden&#34;&gt;&#xA;  &lt;form data-search-form id=&#34;search-form&#34; action=&#34;#&#34; method=&#34;post&#34; accept-charset=&#34;UTF-8&#34; role=&#34;search&#34;&gt;&#xA;    &lt;label for=&#34;query&#34; class=&#34;visually-hidden&#34;&gt;Search&lt;/label&gt;&#xA;    &lt;input data-search-text type=&#34;search&#34; id=&#34;query&#34; name=&#34;query&#34; placeholder=&#34;Enter the terms you wish to search for.&#34; maxlength=&#34;128&#34;&gt;&#xA;  &lt;/form&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div data-search-results&gt;&lt;/div&gt;&#xA;&#xA;&lt;template&gt;&#xA;  &lt;article data-search-result class=&#34;list-view&#34;&gt;&#xA;    &lt;header&gt;&#xA;      &lt;h2 class=&#34;title mt--s mb--xxs&#34;&gt;&lt;a href=&#34;#&#34;&gt;Title here&lt;/a&gt;&lt;/h2&gt;&#xA;      &lt;div class=&#34;submitted&#34;&gt;&lt;time class=&#34;created-date&#34;&gt;Date here&lt;/time&gt;&lt;/div&gt;&#xA;    &lt;/header&gt;&#xA;    &lt;p class=&#34;content&#34;&gt;Summary here&lt;/p&gt;&#xA;  &lt;/article&gt;&#xA;&lt;/template&gt;&#xA;&#xA;</description>
     </item>
   </channel>

@@ -19,3 +19,4 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           cname: mutablefigment.xyz
+          repo: mutablefigment/mutablefigment.github.io
