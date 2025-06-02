@@ -1,0 +1,6 @@
+{
+    "m.homeserver": {
+        "base_url": "https://matrix.mutablefigment.xyz/",
+        "server_name": "mutablefigment.xyz"
+    }
+}
