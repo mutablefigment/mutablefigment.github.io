@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Mutables Webspace</title>
+    <link>https://mutablefigment.xyz/categories/</link>
+    <description>Recent content in Categories on Mutables Webspace</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Jul 2025 15:03:47 +0200</lastBuildDate>
+    <atom:link href="https://mutablefigment.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://mutablefigment.xyz/categories/Development/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/categories/Development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rants</title>
+      <link>https://mutablefigment.xyz/categories/Rants/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/categories/Rants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>https://mutablefigment.xyz/categories/Job/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/categories/Job/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

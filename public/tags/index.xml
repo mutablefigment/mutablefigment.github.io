@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Mutables Webspace</title>
+    <link>https://mutablefigment.xyz/tags/</link>
+    <description>Recent content in Tags on Mutables Webspace</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Jul 2025 15:03:47 +0200</lastBuildDate>
+    <atom:link href="https://mutablefigment.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://mutablefigment.xyz/tags/development/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llms</title>
+      <link>https://mutablefigment.xyz/tags/llms/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/tags/llms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ramblings</title>
+      <link>https://mutablefigment.xyz/tags/ramblings/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/tags/ramblings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rant</title>
+      <link>https://mutablefigment.xyz/tags/rant/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/tags/rant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiring</title>
+      <link>https://mutablefigment.xyz/tags/hiring/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/tags/hiring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>https://mutablefigment.xyz/tags/job/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mutablefigment.xyz/tags/job/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
